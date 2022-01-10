@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jerome.tan@tuta.io
+	name = Jerome Tan
